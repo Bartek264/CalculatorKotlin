@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculatorKotlin</string>
+    <string name="Toast_string">Input value first</string>
+</resources>
